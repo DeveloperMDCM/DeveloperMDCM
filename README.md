@@ -1,8 +1,6 @@
 <h4 align="center"><samp> Hi, I'am Moisés👋 </samp></h4> 
-
 <h1 align="center">FullStack DEV Javascript💻</h1>
-
-<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=DeveloperMDCM&color=blue"/></p> 
+<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=DeveloperMDCM&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
 
@@ -29,10 +27,10 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 
 #### Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/developer-mdcm)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](www.linkedin.com/in/developer-mdcm)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/tu_usuario)
-![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/developer-mdcm/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:martinezmoises75@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/DeveloperMDCM)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/moisesdavid.98/)
 
 </div>
 
